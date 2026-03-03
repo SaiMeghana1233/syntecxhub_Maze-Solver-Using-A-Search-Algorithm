@@ -45,3 +45,4 @@ The algorithm selects the node with the lowest f(n) value using a priority queue
 1. Install Python (if not installed)
 2. Open Command Prompt inside project folder
 3. Run:
+![Maze Output](outpt.png)
